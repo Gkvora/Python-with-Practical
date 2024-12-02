@@ -1,5 +1,0 @@
-Hello my name is 123
-i am from india
-what is your age?First line 
-Second line 
-Third line
